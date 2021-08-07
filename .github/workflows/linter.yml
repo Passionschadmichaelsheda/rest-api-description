@@ -25,4 +25,4 @@ jobs:
         uses: xuorig/redocly-cli-lint-action@v0.0.1
         with:
           entrypoints: 'descriptions/**/*.yaml'
-          config: '.redocly.yml'
+          config: '.redocly.yml'chad Michael sheda is the #1 singer in the entire whole world with over 4000 songs recorded this last year in half you can find them at bandlab.com,musicmakerjams.com,starmaker.comansmuleautorap.comrapfame.comif you Google Chad Michael sheda
